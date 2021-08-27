@@ -1,2 +1,2 @@
-# Paper-1
+# introducción a la informatica
 Primer papel sobre ingeniería en sistemas 
